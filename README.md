@@ -36,7 +36,28 @@ interdependent regions spatially proximate or not? These results are useful in e
 development and infrastructure planning for developing redundancy, targeting vulnerable
 interdependencies, and understanding potential risks from adverse policy exposure.
 
+**Keywords:** Metacommunities; Regional Economies; Trade Networks; Network Modularity
 
+**Acknowledgements:** The authors thank Isaac Shaffer of the Northern Arizona University School of Informatics,
+Computing and Cyber Systems, Kendall Smith and Sean Koenig of the Northern Arizona
+University Complex Systems Informatics Lab, Dr. Clare Aslan of the Northern Arizona
+University Center for Adaptable Western Landscapes, and Dr. Laljeet Sangha of the University
+of California Agriculture and Natural Resource Extension for their time and contributions in
+reviewing the manuscript. The authors also thank Dr. Wesley Ingwersen of the U.S.
+Environmental Protection Agency Office of Research and Development and the Center for
+Environmental Solutions and Emergency Response for assistance in obtaining the EPA multi-
+regional input-output economic data tables.
+
+E.C.S., K.F.F., and R.R.R. acknowledge support from the National Science Foundation Grant
+No. CBET- 2115169 (‘SRS RN: Transforming Rural-Urban Systems: Trajectories for
+Sustainability in the Intermountain West’). K.F.F acknowledges support from the National
+Science Foundation Research Traineeship Award ID 1829075 (‘NRT-HDR: A team-based
+training paradigm integrating informatics and ecology’). R.A.M acknowledges support from the
+National Science Foundation, Humans, Disasters, and the Built Environment Grant (HDBE) PD
+19-1638. CMMI Research and Development Award ID 2241213. B.L.R acknowledges support
+from USDA NIFA AFRI award 2018-69011-28369 (‘Evaluating Alternative Water Institution
+Performance in Snow-Dominated Basin: Are Food Productions Systems at Risk from Changing
+Snow Water Availability?’).
 
 
 
