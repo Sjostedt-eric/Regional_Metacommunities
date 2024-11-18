@@ -14,7 +14,7 @@ AZ, USA
 **Journal:** [Ecology & Society](https://ecologyandsociety.org/)
 
 
-**Reference:**
+**Reference:** *Insert*
 
 
 **Abstract:** Regional social, environmental, and economic systems form a rich web of connections that both
