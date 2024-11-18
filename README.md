@@ -1,7 +1,6 @@
 # Sustainability and Resilience Through Connection: The Economic Metacommunites of the Western USA
 
-
-**Authors:** Eric Sjöstedt <sup>1</sup>, Kat Fowler <sup>1</sup>, Richard Rushforth <sup>1,*</sup>, Ryan McManamay <sup>2</sup>, Benjamin Ruddell <sup>1</sup>
+### **Authors:** Eric Sjöstedt <sup>1</sup>, Kat Fowler <sup>1</sup>, Richard Rushforth <sup>1,*</sup>, Ryan McManamay <sup>2</sup>, Benjamin Ruddell <sup>1</sup>
 
 <sup>*</sup> Corresponding Author: Richard.Rushforth@nau.edu
 
@@ -10,11 +9,7 @@ AZ, USA
 
 <sup>2</sup> Department of Environmental Science, Baylor University, Waco, TX, USA
 
-
-**Journal:** [Ecology & Society](https://ecologyandsociety.org/)
-
-
-**Reference:** *[Insert When Available]*
+### **Citation:** *[Insert When Available]*
 
 
 **Abstract:** Regional social, environmental, and economic systems form a rich web of connections that both
