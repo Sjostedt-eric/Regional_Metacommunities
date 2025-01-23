@@ -9,7 +9,7 @@ AZ, USA
 
 <sup>2</sup> Department of Environmental Science, Baylor University, Waco, TX, USA
 
-### **Citation:** *[Insert When Available]*
+### **Citation:** *Sjöstedt, E., Fowler, K., Rushforth, R., McManamay, R., Ruddell, B. 2025. Sustainability and resilience through connection: the economic metacommunities of the Western USA. Ecology and Society, 30(1):4. DOI: https://doi.org/10.5751/ES-15676-300104*
 
 
 **Abstract:** Regional social, environmental, and economic systems form a rich web of connections that both
